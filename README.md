@@ -1,6 +1,6 @@
 # SatPipe
 
-### from *SATPIPE: Deterministic TCP Adaptation for Highly Dynamic LEO Satellite Networks
+## from SatPipe: Deterministic TCP Adaptation for Highly Dynamic LEO Satellite Networks
 
 ### Rebuffering Comparison between BBR and SatPipe
 
