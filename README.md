@@ -21,5 +21,5 @@ The source code and intruction can be found [here](https://github.com/dzhao99/Sa
 This research was supported by Cisco Research.
 
 <p align="center">
-<img src="https://github.com/dzhao99/SatPipe/blob/main/cisco-logo-blue.jpg" width=30% height=30%>
+<img src="https://github.com/dzhao99/SatPipe/blob/main/cisco-logo-blue.jpg" width=20% height=20%>
 </p>
