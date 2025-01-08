@@ -15,3 +15,11 @@ The left side of the image represents the results of the BBR, and the right side
 The full video is available [here](https://github.com/dzhao99/SatPipe/blob/main/DASH/SatPipe_vs_BBR.mp4)
 
 The source code and intruction can be found [here](https://github.com/dzhao99/SatPipe/tree/main/Code)
+
+### Acknowledgement
+
+This research was supported by Cisco Research.
+
+<p align="center">
+<img src="https://github.com/dzhao99/SatPipe/blob/main/cisco-logo-blue.jpg" width=30% height=30%>
+</p>
